@@ -1,0 +1,10 @@
+Enter your first name: Austin
+Enter your last name: Long
+Enter your age: 17
+Enter the average amount of sleep you get in a day in hours: 8.432
+Person
+------------------------------
+First name:             Austin
+Last name:                Long
+Age:                  17 years
+Avg daily sleep:     8.4 hours
